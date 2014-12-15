@@ -1,0 +1,28 @@
+<RCC>
+    <qresource>
+        <file>images/pieces/bb.png</file>
+        <file>images/pieces/bk.png</file>
+        <file>images/pieces/bn.png</file>
+        <file>images/pieces/bp.png</file>
+        <file>images/pieces/bq.png</file>
+        <file>images/pieces/br.png</file>
+        <file>images/pieces/wb.png</file>
+        <file>images/pieces/wk.png</file>
+        <file>images/pieces/wn.png</file>
+        <file>images/pieces/wp.png</file>
+        <file>images/pieces/wq.png</file>
+        <file>images/pieces/wr.png</file>
+        <file>images/pieces_shaded/bb.png</file>
+        <file>images/pieces_shaded/bk.png</file>
+        <file>images/pieces_shaded/bn.png</file>
+        <file>images/pieces_shaded/bp.png</file>
+        <file>images/pieces_shaded/bq.png</file>
+        <file>images/pieces_shaded/br.png</file>
+        <file>images/pieces_shaded/wb.png</file>
+        <file>images/pieces_shaded/wk.png</file>
+        <file>images/pieces_shaded/wn.png</file>
+        <file>images/pieces_shaded/wp.png</file>
+        <file>images/pieces_shaded/wq.png</file>
+        <file>images/pieces_shaded/wr.png</file>
+    </qresource>
+</RCC>
